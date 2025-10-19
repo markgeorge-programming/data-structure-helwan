@@ -80,32 +80,6 @@ C++ Compiler (e.g., GCC, MinGW, or any IDE like Code::Blocks, Visual Studio, or 
 
 Basic understanding of C++ syntax
 
-Run an Example
-g++ quick_sort.cpp -o quicksort
-./quicksort
-
-📂 Folder Structure
-data-structure-helwan/
-│
-├── sorting/
-│   ├── bubble_sort.cpp
-│   ├── quick_sort.cpp
-│   ├── merge_sort.cpp
-│   └── heap_sort.cpp
-│
-├── searching/
-│   ├── linear_search.cpp
-│   └── binary_search.cpp
-│
-├── data_structures/
-│   ├── linked_list.cpp
-│   ├── stack.cpp
-│   ├── queue.cpp
-│   ├── bst.cpp
-│   ├── heap.cpp
-│   └── graph.cpp
-│
-└── README.md
 
 🤝 Contributing
 
@@ -126,6 +100,6 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 💡 Maintainer
 
-Author: [Your Name]
+Author: Mark George Wadie
 University: Helwan University – Faculty of Engineering
 Language: C++
